@@ -1,0 +1,53 @@
+# Ignore Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.rpx
+*.xml
+
+# Vivado database and cache
+.cache/
+.xil/
+.hw/
+.sim/
+.ip_user_files/
+.gen/
+.runs/
+.simulation/
+.sdk/
+webtalk/
+
+# Ignore temp files
+*.tmp
+*.temp
+*.bak
+
+# Ignore Vivado timing reports
+*.tcl.bak
+*.ltx
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore waveform databases
+*.vcd
+*.wlf
+*.ghw
+
+# Ignore compiled simulation files (ModelSim/Questa/iverilog)
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# Ignore build artifacts
+*.o
+*.out
+*.bin
+*.elf
+
+# Backup files
+*~
