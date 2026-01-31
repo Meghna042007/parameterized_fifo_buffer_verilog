@@ -1,4 +1,5 @@
 # Synchronous FIFO Buffer (Parameterized) – Verilog HDL
+
 # Description
 
 This project implements a synchronous FIFO (First-In First-Out) buffer in Verilog HDL.
